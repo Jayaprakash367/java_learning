@@ -1,1 +1,14 @@
-
+package Java_program;
+class Employee{  
+	 float salary=40000;  
+	}  
+	class Programmer extends Employee{  
+	 int bonus=10000;  
+	}  
+	public class Inheritance_Example2 {
+		public static void main(String arg[]) {
+		Programmer p=new Programmer();  
+		   System.out.println("Programmer salary is:"+p.salary);  
+		   System.out.println("Bonus of Programmer is:"+p.bonus);  
+		}
+	}
