@@ -1,5 +1,3 @@
-package Ascii_program;
-
 public class Lowercase_Ascii_value_a_to_z {
 
 	public static void main(String[] args) {

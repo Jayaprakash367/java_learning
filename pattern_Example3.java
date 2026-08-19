@@ -1,4 +1,3 @@
-package Pattern_program;
 
 public class pattern_Example3 {
 

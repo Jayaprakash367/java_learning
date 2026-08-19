@@ -1,4 +1,4 @@
-package SCANNER;
+
 import java.util.Scanner;
 public class Palindrome_or_Not_example {
 

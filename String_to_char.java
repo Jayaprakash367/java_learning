@@ -1,4 +1,3 @@
-package Type_Conversion;
 
 import java.util.Scanner;
 

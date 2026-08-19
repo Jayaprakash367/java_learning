@@ -1,4 +1,3 @@
-package OOPs_Concept;
 public class Method_Example3 {
 
 	public static void main(String[] args) {

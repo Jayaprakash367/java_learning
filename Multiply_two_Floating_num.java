@@ -1,4 +1,3 @@
-package Java_program;
 
 public class Multiply_two_Floating_num {
 

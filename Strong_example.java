@@ -1,5 +1,3 @@
-package Core_java_program;
-
 import java.util.Scanner;
 
 public class Strong_example {

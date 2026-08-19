@@ -1,4 +1,3 @@
-package Ascii_program;
 
 public class Print_Ascii_Value_A_to_Z {
 

@@ -1,4 +1,4 @@
-package Core_java_program;
+
 import java.util.Scanner;
 public class Neon_Number {
 

@@ -1,4 +1,3 @@
-package OOPs_Concept;
 
 public class Single_Inheritance {
 

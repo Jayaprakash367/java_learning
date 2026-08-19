@@ -1,4 +1,3 @@
-package Ascii_program;
 import java.util.Scanner;
 public class Sum_of_ascii_value_string {
 

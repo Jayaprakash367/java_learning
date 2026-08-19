@@ -1,4 +1,3 @@
-package OOPs_Concept;
 
 public class Polymorphism_Example4 {
 
