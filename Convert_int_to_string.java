@@ -1,4 +1,4 @@
-package Type_Conversion;
+
 import java.util.Scanner;
 public class Convert_int_to_string {
 

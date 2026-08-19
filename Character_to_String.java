@@ -1,4 +1,4 @@
-package Type_Conversion;
+
 import java.util.Scanner;
 public class Character_to_String {
 	public static void main(String[]arg) {

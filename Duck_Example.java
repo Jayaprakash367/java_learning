@@ -1,4 +1,4 @@
-package OOPs_Concept;
+
 import java.util.Scanner;
 public class Duck_Example {
 

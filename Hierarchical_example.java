@@ -1,4 +1,4 @@
-package OOPs_Concept;
+
 
 public class Hierarchical_example {
 

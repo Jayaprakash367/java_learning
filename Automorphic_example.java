@@ -1,4 +1,4 @@
-package Core_java_program;
+
 import java.util.Scanner;
 public class Automorphic_example {
 	public static void main(String[] arg) {

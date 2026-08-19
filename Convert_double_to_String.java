@@ -1,4 +1,4 @@
-package Type_Conversion;
+
 import java.util.Scanner;
 
 public class Convert_double_to_String {

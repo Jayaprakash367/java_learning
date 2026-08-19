@@ -1,4 +1,4 @@
-7package Ascii_program;
+
 import java.util.Scanner;
 public class Char_uppercase_or_lowercase_ascii {
 

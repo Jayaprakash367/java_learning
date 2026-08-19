@@ -1,4 +1,4 @@
-package Type_Conversion;
+
 import java.util.Scanner;
 public class Convert_string_to_integer {
 

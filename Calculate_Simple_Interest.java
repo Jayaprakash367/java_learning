@@ -1,4 +1,3 @@
-package Java_program;
 
 public class Calculate_Simple_Interest {
 

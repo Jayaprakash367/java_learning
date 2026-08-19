@@ -1,4 +1,4 @@
-package Ascii_program;
+
 import java.util.Scanner;
 public class Ascii_char {
 

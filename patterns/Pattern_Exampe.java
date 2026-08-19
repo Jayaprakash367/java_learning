@@ -1,4 +1,3 @@
-package Pattern_program;
 
 import java.util.Scanner;
 
