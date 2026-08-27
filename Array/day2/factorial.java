@@ -5,7 +5,7 @@ public class factorial {
         Scanner In= new Scanner(System.in);
         System.out.println("Enter the factorial number:");
         int n=In.nextInt();
-        int fact=1;
+        long fact=1;
         for(int i=2;i<=n;i++){
             fact=fact*i;
         }
