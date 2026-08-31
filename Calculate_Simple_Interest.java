@@ -1,4 +1,3 @@
-
 public class Calculate_Simple_Interest {
 
 	public static void main(String[] args) {
