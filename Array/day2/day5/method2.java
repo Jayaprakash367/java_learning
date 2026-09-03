@@ -1,7 +1,6 @@
 package day5;
 //........ with return type with argument.......
 import java.util.Scanner;
-
 public class method2 {
     public int addvalue(int a,int b){
         int sum=a+b;
