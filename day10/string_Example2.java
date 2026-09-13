@@ -3,7 +3,6 @@ package day10;
 public class string_Example2 {
     public static void main(String[] args) {
         String s="Java programming Language";
-
         // replace method
         String rep=s.replace(" ", "");
         System.out.println("--------------------------------------------------------");
