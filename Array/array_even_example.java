@@ -1,6 +1,6 @@
 public class array_even_example {
     public static void main(String[] args) {
-        int[] numbers = {2, 3, 4, 5, 6, 7, 8, 9, 10};
+        int[] numbers = {2, 3, 4, 5, 6, 7, 8, 9, 10,11};
         System.out.println("Even numbers in the array:");
         for (int i = 0; i < numbers.length; i++) {
             if (numbers[i] % 2 == 0) {
