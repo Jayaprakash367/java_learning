@@ -7,7 +7,6 @@ public class balance {
         System.out.println("Enter the money withdraw");
         int with=sc.nextInt();
         int balance=10000; 
-      
       try{
         if (with>balance) {
             throw new InsufficientBalanceException("Withdraw amount less than balance "+"current balance :"+balance);
