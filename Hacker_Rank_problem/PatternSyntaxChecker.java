@@ -7,7 +7,6 @@ public class PatternSyntaxChecker {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int testCases = Integer.parseInt(sc.nextLine());
-
         while (testCases-- > 0) {
         String pattern = sc.nextLine();
             try {
